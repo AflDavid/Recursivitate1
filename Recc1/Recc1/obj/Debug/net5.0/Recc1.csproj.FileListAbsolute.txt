@@ -1,0 +1,16 @@
+C:\Users\David Afloarei\source\repos\Recc1\Recc1\bin\Debug\net5.0\Recc1.exe
+C:\Users\David Afloarei\source\repos\Recc1\Recc1\bin\Debug\net5.0\Recc1.deps.json
+C:\Users\David Afloarei\source\repos\Recc1\Recc1\bin\Debug\net5.0\Recc1.runtimeconfig.json
+C:\Users\David Afloarei\source\repos\Recc1\Recc1\bin\Debug\net5.0\Recc1.runtimeconfig.dev.json
+C:\Users\David Afloarei\source\repos\Recc1\Recc1\bin\Debug\net5.0\Recc1.dll
+C:\Users\David Afloarei\source\repos\Recc1\Recc1\bin\Debug\net5.0\ref\Recc1.dll
+C:\Users\David Afloarei\source\repos\Recc1\Recc1\bin\Debug\net5.0\Recc1.pdb
+C:\Users\David Afloarei\source\repos\Recc1\Recc1\obj\Debug\net5.0\Recc1.csproj.AssemblyReference.cache
+C:\Users\David Afloarei\source\repos\Recc1\Recc1\obj\Debug\net5.0\Recc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Afloarei\source\repos\Recc1\Recc1\obj\Debug\net5.0\Recc1.AssemblyInfoInputs.cache
+C:\Users\David Afloarei\source\repos\Recc1\Recc1\obj\Debug\net5.0\Recc1.AssemblyInfo.cs
+C:\Users\David Afloarei\source\repos\Recc1\Recc1\obj\Debug\net5.0\Recc1.csproj.CoreCompileInputs.cache
+C:\Users\David Afloarei\source\repos\Recc1\Recc1\obj\Debug\net5.0\Recc1.dll
+C:\Users\David Afloarei\source\repos\Recc1\Recc1\obj\Debug\net5.0\ref\Recc1.dll
+C:\Users\David Afloarei\source\repos\Recc1\Recc1\obj\Debug\net5.0\Recc1.pdb
+C:\Users\David Afloarei\source\repos\Recc1\Recc1\obj\Debug\net5.0\Recc1.genruntimeconfig.cache
